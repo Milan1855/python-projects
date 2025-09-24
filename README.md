@@ -18,7 +18,7 @@ This repository contains simple Python projects to help you learn and practice c
 1. Download or clone this repository.
 2. Make sure you have Python installed.
 3. Install the required packages:  
-  pip install requests prettytable
+  --> pip install requests prettytable
 4. Run the Python files in your terminal or command prompt.
 
 ## About
