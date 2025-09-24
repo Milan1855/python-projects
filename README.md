@@ -10,6 +10,9 @@ This repository contains simple Python projects to help you learn and practice c
 - **COVID-19 Stats Dashboard**  
   A Python script that fetches real-time COVID-19 data from an API and shows total cases, deaths, recoveries, and population for each country in a simple table.
 
+- **Instant Language Translator**  
+  A Python tool that translates English text into different languages using a translation API. Enter text and the language code to get quick translations.
+
 ## How to Use
 
 1. Download or clone this repository.
